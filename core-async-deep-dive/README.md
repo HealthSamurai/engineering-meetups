@@ -1,6 +1,9 @@
 # core.async: Deep Dive
 - Unraveling the internals of Clojure's asynchronous programming engine
 
+| 10 December, 2025 | 18:00 (GMT+1) | Online / Zoom | Free (but invaluable) |
+|:-----------------:|:-------------:|:-------------:|:---------------------:|
+
 **>> [Get an Invitation!](https://team.health-samurai.io/core-async/?utm_source=github)**
 
 **FAQ**
@@ -39,5 +42,5 @@ Of course! We’ll be happy if you join the discussion after the talk and share 
 Absolutely! Usually, at the beginning of the talk, the speaker introduces the participants to the problem area. Even if something remains unclear to you, you can freely ask the speaker your question — after all, there are no stupid questions.
 
 
-![Image alt]()
+![Image alt](https://github.com/HealthSamurai/engineering-meetups/blob/main/core-async-deep-dive/core-async-cover.png)
 
