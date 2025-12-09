@@ -6,12 +6,6 @@
 
 **>> [Get an Invitation!](https://team.health-samurai.io/core-async/?utm_source=github)**
 
-**FAQ**
-
-|         For whom?        |    What's the format?    |    Who is the speaker?   |       How to join?       |
-|:-------------------------|:-------------------------|:-------------------------|:-------------------------|
-|- Language implementers considering async support for your language<br>- Clojure developers wanting to level up beyond API usage<br>- Systems programmers curious about CSP-style concurrency<br>- Anyone who's ever looked at a Go block and thought "but how?"|- Speaker’s presentation ~45 minutes<br>- Q&A session<br>- Discussion on the topic<br> <br>The entire meetup will last one to one and a half hours|**Andrey Listopadov**, Clojure Engineer at Health Samurai<br> <br>Andrey has been programming in Clojure professionally for 5+ years, with deep expertise in both the language and its ecosystem. He's a conference speaker, open-source contributor, and notably has ported Clojure's core.async to Fennel — giving him firsthand knowledge of how the library works at its deepest level.|Just fill out **[the registration form](https://team.health-samurai.io/core-async#rec1634368451)**, send your information, and get an invitation by email.<br> <br>Please provide your real information, because we might reach out to you for networking or even with an invitation to speak at a meetup with us! :)|
-
 **MORE ABOUT THE TALK**
 
 **Intro from speaker**<br>
@@ -34,6 +28,12 @@ An in‑depth look at the internals of clojure.core.async and what they mean for
 
 **>> [Get an Invitation!](https://team.health-samurai.io/core-async/?utm_source=github)**
 
+
+**FAQ**
+
+|         For whom?        |    What's the format?    |    Who is the speaker?   |       How to join?       |
+|:-------------------------|:-------------------------|:-------------------------|:-------------------------|
+|- Language implementers considering async support for your language<br>- Clojure developers wanting to level up beyond API usage<br>- Systems programmers curious about CSP-style concurrency<br>- Anyone who's ever looked at a Go block and thought "but how?"|- Speaker’s presentation ~45 minutes<br>- Q&A session<br>- Discussion on the topic<br> <br>The entire meetup will last one to one and a half hours|**Andrey Listopadov**, Clojure Engineer at Health Samurai<br> <br>Andrey has been programming in Clojure professionally for 5+ years, with deep expertise in both the language and its ecosystem. He's a conference speaker, open-source contributor, and notably has ported Clojure's core.async to Fennel — giving him firsthand knowledge of how the library works at its deepest level.|Just fill out **[the registration form](https://team.health-samurai.io/core-async#rec1634368451)**, send your information, and get an invitation by email.<br> <br>Please provide your real information, because we might reach out to you for networking or even with an invitation to speak at a meetup with us! :)|
 
 **— Will it be interesting if I already know the topic well?**<br>
 Of course! We’ll be happy if you join the discussion after the talk and share your experience. Your perspective will help reveal the topic more fully for the participants.
