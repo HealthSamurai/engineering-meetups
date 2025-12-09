@@ -30,3 +30,6 @@ And if you still have questions and don't know who to ask, then write to the cha
 
 **>> [Get an Invitation!](https://team.health-samurai.io/hs-tech-meetups/?utm_source=github)**
 
+
+![Image alt](https://github.com/HealthSamurai/-Engineering-Meetups/blob/main/Group_165_1.png%20(1).png)
+
