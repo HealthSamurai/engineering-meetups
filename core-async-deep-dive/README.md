@@ -4,7 +4,7 @@
 | 10 December, 2025 | 18:00 (GMT+1) | Online / Zoom | Free (but invaluable) |
 |:-----------------:|:-------------:|:-------------:|:---------------------:|
 
-**>> [Watch recording]([https://team.health-samurai.io/core-async/?utm_source=github](https://team.health-samurai.io/core-async#rec1634368441))**
+**>> [Watch recording]([https://team.health-samurai.io/core-async/?utm_source=github](https://team.health-samurai.io/core-async#rec1634368441)**
 
 **MORE ABOUT THE TALK**
 
@@ -26,7 +26,7 @@ An in‑depth look at the internals of clojure.core.async and what they mean for
 - Have a mental model of the internal mechanisms of clojure.core.async﻿ and be able to judge where this approach fits their own projects.​
 - Gain a deeper understanding of how asynchronous “threads” and channels are implemented, helping them design more robust concurrent systems.
 
-**>> [Get presentation]([https://team.health-samurai.io/core-async/?utm_source=github](https://github.com/HealthSamurai/engineering-meetups/blob/main/core-async-deep-dive/core-async-presentation.pdf?raw=1))**
+**>> [Get presentation]([https://team.health-samurai.io/core-async/?utm_source=github](https://github.com/HealthSamurai/engineering-meetups/blob/main/core-async-deep-dive/core-async-presentation.pdf?raw=1)**
 
 
 **FAQ**
